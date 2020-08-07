@@ -23,12 +23,12 @@ h1 {
   /* Body + Card Design */
 
 body {
-  background-color: #101357;
+  background-color: #fea49f;
   color: white;
 }
 
 .body-about .card {
-  background-color: #fea49f;
+  background-color: #101357;
   margin: 30px;
 }
 
