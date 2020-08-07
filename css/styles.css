@@ -29,16 +29,20 @@ body {
 
 .body-about .card {
   background-color: #fea49f;
+  margin: 30px;
 }
 
 .body-background .card {
-  background-color: #fbaf08
+  background-color: #fbaf08;
+  margin: 30px;
 }
 
 .body-projects .card {
   background-color: #00a0a0;
+  margin: 30px;
 }
 
 .body-contact .card {
   background-color: #007f4f;
+  margin: 30px;
 }
