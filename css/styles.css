@@ -1,62 +1,31 @@
+/* Intro Section */
+
 h1 {
-  color: lightblue;
+  color: #101357;
+  font-size: 30px;
 }
 
 .graphic-1 {
-    width: 50%;
+    width: 60%;
     height: auto;
     display: block;
+    float: relative;
   }
 
 .intro-blurb {
   float: left;
-  padding: 153px;
-}
+  padding: 150px;
+  font-size: 20px;
 
-/* Image Overlay */
-
-/* .intro-image {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 60%;
 }
 
 .image-self {
-  position: relative;
-  top: 0;
-  left: 0;
-}
-
-.graphic-1 {
-  width: 55%; 
-  position: absolute;
-  top: 30px;
-  left: 30px;
-} */
-
-
-
-/* Intro Section  */
-
-/* .intro {
- float: center;
- margin-left: auto;
- margin-right: auto;
-} */
-
-.image-self {
-  /* display: block; */
-  width: 25%;
-  height: 25%;
+ padding: 40px;
+  width: 100%;
+  height: 100%;
   border-radius: 50%
 }
-/* 
-.intro-blurb {
-  float: top;
-  text-align: center;
-  
-} */
+
 
 /* About Section */
 
@@ -68,6 +37,7 @@ h1 {
   font-size: 25px;
   margin: 30px;
 }
+
 
 
 
@@ -95,11 +65,11 @@ body {
 }
 
 .body-projects .card {
-  background-color: #00a0a0;
+  background-color: #101357;
   margin: 30px;
 }
 
 .body-contact .card {
-  background-color: #007f4f;
+  background-color:  #fbaf08;
   margin: 30px;
 }
