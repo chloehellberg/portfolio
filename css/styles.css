@@ -8,6 +8,10 @@ h1 {
     display: block;
   }
 
+.intro-blurb {
+  float: left;
+  padding: 153px;
+}
 
 /* Image Overlay */
 
@@ -72,6 +76,12 @@ h1 {
 body {
   background-color: #fea49f;
   color: white;
+}
+
+
+.intro .card {
+  background-color: #fea49f;
+  border-color: #fea49f;
 }
 
 .body-about .card {
