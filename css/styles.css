@@ -60,16 +60,16 @@ body {
 }
 
 .body-background .card {
-  background-color: #fbaf08;
+  background-color: #00a0a0;
   margin: 30px;
 }
 
 .body-projects .card {
-  background-color: #101357;
+  background-color:#fbaf08;
   margin: 30px;
 }
 
 .body-contact .card {
-  background-color:  #fbaf08;
+  background-color:  #101357;
   margin: 30px;
 }
