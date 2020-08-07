@@ -35,3 +35,10 @@ body {
   background-color: #fbaf08
 }
 
+.body-projects .card {
+  background-color: #00a0a0;
+}
+
+.body-contact .card {
+  background-color: #007f4f;
+}
