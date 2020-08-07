@@ -17,7 +17,7 @@ _Please note: this requires a desktop and a web browser_
 
 ## Link to Site on GitHub Pages
 
-
+https://chloehellberg.github.io/portfolio-landing-page/
 
 
 ## Known Bugs
