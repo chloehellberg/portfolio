@@ -3,16 +3,20 @@ h1 {
 }
 .intro {
  float: center;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .image-self {
+  display: block;
   width: 25%;
   height: 25%;
   border-radius: 50%
 }
 
 .intro-blurb {
-  float: center;
+  float: top;
   text-align: center;
+  
 }
 
