@@ -2,6 +2,34 @@ h1 {
   color: lightblue;
 }
 
+/* Image Overlay */
+
+.intro-image {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 60%;
+  margin: 60px;
+  padding: 90px;
+}
+
+.image-self {
+  position: relative;
+  top: 0;
+  left: 20px;
+  /* padding: 10%; */
+}
+
+.graphic-1 {
+  width: 55%; 
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  height: auto;
+}
+
+
+
 /* Intro Section  */
 
 .intro {
@@ -11,7 +39,7 @@ h1 {
 }
 
 .image-self {
-  display: block;
+  /* display: block; */
   width: 25%;
   height: 25%;
   border-radius: 50%
