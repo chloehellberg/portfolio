@@ -20,6 +20,18 @@ h1 {
   
 }
 
+  /* Body + Card Design */
+
 body {
-  background-color: #EDF9D6; 
+  background-color: #101357;
+  color: white;
 }
+
+.body-about .card {
+  background-color: #fea49f;
+}
+
+.body-background .card {
+  background-color: #fbaf08
+}
+
