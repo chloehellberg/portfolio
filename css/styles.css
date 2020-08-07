@@ -1,6 +1,9 @@
 h1 {
   color: lightblue;
 }
+
+/* Intro Section  */
+
 .intro {
  float: center;
  margin-left: auto;
@@ -19,6 +22,18 @@ h1 {
   text-align: center;
   
 }
+
+/* About Section */
+
+.highlight {
+  font-weight: bolder;
+}
+
+.body-about .thanks {
+  font-size: 25px;
+}
+
+
 
 /* Body + Card Design */
 
