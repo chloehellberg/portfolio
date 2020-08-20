@@ -34,6 +34,6 @@ _This application utilizes HTML, CSS, and Bootstrap._
 
 ### License
 
-*No licensing at this time*
+MIT License
 
 Copyright (c) 2020 **_Chloe Hellberg_**
